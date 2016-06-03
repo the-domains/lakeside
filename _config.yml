@@ -1,0 +1,28 @@
+name: Lakeside
+favicon: null
+layout_spectrum: 0.8509753784164786
+typography_spectrum: 0.19813510007224977
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.33984121098183095
+  lightness: 0.16220122831873596
+  saturation: 0.5762287315446883
+  rhythmicContrast: 0.24887190875597298
+purpose: []
